@@ -1,7 +1,5 @@
 # Identifying-clinical-indicators-of-psychosis
 Identifying psychosis in teens using computer vision, EDA, and gesture analysis.
-[# Practicum
-Identifying Cinical Indicators of Psychosis in teens via Gesture Analysis
 
 ## Data Overview:
 - Gesture data is reported for each second 
