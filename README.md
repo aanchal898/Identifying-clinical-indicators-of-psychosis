@@ -2,6 +2,7 @@
 Identifying psychosis in teens using computer vision, EDA, and gesture analysis.
 
 ## Data Overview:
+Disclaimer: The project has been done on a small piece of dataset due to computational limitations. The methodologies are robust and can be extended to the whole data (~20TB).
 - Gesture data is reported for each second 
 - Clinical High Risk: with label = 1, 20 videos, each ~ 300 seconds, total 5,545 records in the gesture dataframe 
 - Healthy Control: with label = 0, 17 videos, each ~ 300 seconds, total 5,109 records in the gesture dataframe 
